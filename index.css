@@ -24,18 +24,21 @@ body{
     border-radius: 20px;
     box-shadow: 10px 10px; 
     padding : 20px;
+    
 
 }
 
 #img-container{
     width:420px;
     border-radius: 20px;
+    
 
 }
 
 img{
     width: 100%;
     border-radius: 20px;
+    
 }
 
 h2{
