@@ -18,18 +18,19 @@ body{
     display: flex;
     flex-direction: column;
     border: 1px solid;
-    height: 15cm;
-    width: 11cm;
+    height: 600px;
+    width: 430px;
     background-color: white;
     border-radius: 20px;
     box-shadow: 10px 10px; 
     padding : 20px;
+    position: absolute;
     
 
 }
 
 #img-container{
-    width:420px;
+    width:430px;
     border-radius: 20px;
     
 
