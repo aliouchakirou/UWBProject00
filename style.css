@@ -44,7 +44,7 @@ svg{
 
 h2{
     background-color: #f7e438;
-    width: 115px;
+    width: fit-content;
     height: 30px;
     border-radius: 5px;
     font-size: 25px;
